@@ -1,0 +1,62 @@
+element.style {
+}
+body {
+    position: relative;
+    line-height: 1.5;
+}
+.app-container, .ember-application>.ember-view, .iframe-content, .page-iframe .responsive, body, html {
+    height: 100%;
+}
+.app-content-area, body {
+    min-width: 1022px;
+}
+@media only screen and (max-width: 1025px)
+body {
+    min-width: 1010px;
+}
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 14px;
+}
+.img-thumbnail, body {
+    background-color: #ebeff3;
+}
+body, figure {
+    margin: 0;
+}
+.__ui-form__controls__calendar-range-picker .ember-power-calendar .ember-power-calendar-row .ember-power-calendar-day--selected .day-number, .__ui-form__controls__calendar-range-picker .ember-power-calendar-day--current-month, .ember-power-calendar-day--today .day-number, body {
+    color: #183247;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+<style>
+:root {
+    --navy-blue: #11344D;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
